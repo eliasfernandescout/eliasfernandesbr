@@ -46,4 +46,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 
 ### Contact me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fernandesnetobr/)
+<a target="_blank" href="mailto:eliasfernandescoutinho@gmail.com">
+<img src="https://img.shields.io/badge/-gmail-black?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:lucasbivarfonseca@gmail.com" alt="Email Badge">
+</a>
 
