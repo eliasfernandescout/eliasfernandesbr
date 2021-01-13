@@ -47,6 +47,6 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 ### Contact me on 
 <a target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
-<img width="50px" src="https://img.shields.io/badge/Linkedin----blue">
+<img width="100px" src="https://img.shields.io/badge/Linkedin----blue">
 </a>
 
