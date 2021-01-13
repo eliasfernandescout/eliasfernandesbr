@@ -1,12 +1,12 @@
-### Hey 👋
+### Hey 
 
 My name is Elias Fernandes
 
-<p align="center">I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. Contact me.</p>
+<p align="center">Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. Contact me.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fernandesnetobr/)
 
-<h2 align="center"> Languages and Tools: </h2>
+<h2 align="center"> Primarily using: </h2>
 
 
 <p align="center">
