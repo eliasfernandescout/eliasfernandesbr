@@ -36,7 +36,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 <table>
     <tr>
-        <td><img width="413px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
+        <td><img width="433px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
         <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/?username=eliasfernandesbr&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
     </tr>   
 </table>
@@ -49,8 +49,8 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 <a target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?L=pt&phone=5541992480643">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Linkedin Badge">
+<a 
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="https://api.whatsapp.com/send?L=pt&phone=5541992480643" target="_blank">
 </a>
 
 
