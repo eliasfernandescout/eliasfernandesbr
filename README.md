@@ -47,6 +47,9 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 
 ### Contact me on 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasfernandes@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
 
 
