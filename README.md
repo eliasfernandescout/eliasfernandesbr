@@ -39,14 +39,9 @@ Web Development Student, graduating in Software Engineering. I'm very interested
         <img width="423px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
     </tr>   
 </table>
-
-
-
 <br>
-
-
 ### Contact me on: 
-<a target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
+<a align="right" target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?L=pt&phone=5541992480643">
