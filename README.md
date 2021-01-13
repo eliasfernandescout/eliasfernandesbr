@@ -33,12 +33,13 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 
 <br>
-
+<p align="center">
 <table>
     <tr>
-        <img width="423px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
+        <img width="423px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" />
     </tr>   
 </table>
+</p>
 <br>
 
 <a align="button" target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
