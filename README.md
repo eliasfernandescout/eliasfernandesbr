@@ -1,6 +1,6 @@
 ### Hey!
 
-#I'm Elias Fernandes
+## I'm Elias Fernandes
 
 <p align="center">Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. Contact me.</p>
 
