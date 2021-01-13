@@ -36,7 +36,8 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 <table>
     <tr>
-        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
+        <td><img width="
+          363px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
         <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/?username=eliasfernandesbr&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
     </tr>   
 </table>
@@ -46,6 +47,6 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 
 ### Contact me on 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasfernandes@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasfernandes@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 
 
