@@ -2,7 +2,8 @@
 
 ## I'm Elias Fernandes
 
-<p align="center">Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. Contact me.</p>
+Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. 
+## Contact me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fernandesnetobr/)
 
