@@ -8,7 +8,7 @@
 
 <h2 align="center"> Primarily using: </h2>
 
-<div style="background-color: #000000">
+<div style="background-color: black">
 <p align="center">
   <!--<img width="44px" src="https://i.imgur.com/BgjSjn9.png">-->
   <!--<img width="45px" src="https://i.imgur.com/o4FSeZ6.png"> -->
