@@ -46,6 +46,6 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 
 ### Contact me on <a target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
-<img src="https://img.shields.io/badge/-lucasbivar-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbivar" alt="Linkedin Badge">
+<img src="https://img.shields.io/badge/Linkedin----blue">
 </a>
 
