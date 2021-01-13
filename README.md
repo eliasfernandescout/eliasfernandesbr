@@ -40,7 +40,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
     </tr>   
 </table>
 <br>
-### Contact me on: 
+
 <a align="right" target="_blank" href="https://www.linkedin.com/in/fernandesnetobr/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
