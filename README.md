@@ -1,6 +1,6 @@
 ### Hey!
 
-<p align="center">I'm Elias Fernandes</p>
+#I'm Elias Fernandes
 
 <p align="center">Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. Contact me.</p>
 
@@ -8,7 +8,7 @@
 
 <h2 align="center"> Primarily using: </h2>
 
-<div style="background-color: black">
+
 <p align="center">
   <!--<img width="44px" src="https://i.imgur.com/BgjSjn9.png">-->
   <!--<img width="45px" src="https://i.imgur.com/o4FSeZ6.png"> -->
@@ -22,7 +22,6 @@
 
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
   <!--<img width="45px" src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/hyper-3-color-logo.svg">-->
-  <img width="45px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   
   
@@ -32,7 +31,6 @@
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">-->
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">-->
 </p>
-</div>
 
 <br>
 
