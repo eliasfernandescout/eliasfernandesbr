@@ -8,7 +8,7 @@
 
 <h2 align="center"> Primarily using: </h2>
 
-
+<div style="background-color: #000000">
 <p align="center">
   <!--<img width="44px" src="https://i.imgur.com/BgjSjn9.png">-->
   <!--<img width="45px" src="https://i.imgur.com/o4FSeZ6.png"> -->
@@ -31,6 +31,7 @@
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">-->
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">-->
 </p>
+</div>
 
 <br>
 
