@@ -36,8 +36,8 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 <table align="center">
     <tr align="center">
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
-        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/?username=eliasfernandesbr&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandesbr&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/?username=eliasfernandesbr&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
     </tr>   
 </table>
 
