@@ -31,7 +31,6 @@ Web Development Student, graduating in Software Engineering. I'm very interested
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">-->
 </p>
 
-### Contact me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fernandesnetobr/)
 
 <br>
 
@@ -44,4 +43,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
 
 <br>
+
+
+### Contact me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/fernandesnetobr/)
 
