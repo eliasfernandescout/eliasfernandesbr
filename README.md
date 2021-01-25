@@ -19,7 +19,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
   <!--<img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">-->
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
