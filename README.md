@@ -25,7 +25,7 @@ Web Development Student, graduating in Software Engineering. I'm very interested
 
    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <!--<img width="45px" src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/hyper-3-color-logo.svg">-->
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+ 
   
   
  
