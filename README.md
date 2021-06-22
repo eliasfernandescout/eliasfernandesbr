@@ -33,8 +33,8 @@ Web Development Student, graduating in Software Engineering. I'm very interested
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">-->
-  <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">-->
-  <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">-->
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react,-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </p>
 
 
