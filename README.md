@@ -2,7 +2,7 @@
 
 ### I'm Elias Fernandes
 
-Web Development Student, graduating in Software Engineering. I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. 
+Back-end Web developer, graduated in Software Engineering. I am very interested in Computer Engineering, Robotics, Software Engineering and Artificial Intelligence.
 
 
 <h2 align="center"> Primarily using: </h2>
