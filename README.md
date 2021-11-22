@@ -61,7 +61,7 @@ Back-end Web developer, graduated in Software Engineering. I am very interested 
 
 ### CONTACT ME:
 
-<a href="https://www.linkedin.com/in/fernandesnetobr/" target="_blank">
+<a href="https://www.linkedin.com/in/eliasfernandescout/" target="_blank">
   <img alt="Made by Elias Fernandes" src="https://img.shields.io/badge/-Linkedin-blue?logo=LinkedIn&logoColor=white" />
   </a>
 <a target="_blank" href="https://api.whatsapp.com/send?L=pt&phone=5541992480643">
