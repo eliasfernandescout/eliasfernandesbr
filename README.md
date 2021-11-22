@@ -22,6 +22,8 @@ Back-end Web developer, graduated in Software Engineering. I am very interested 
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original.svg">
+  
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
    
     
@@ -33,22 +35,29 @@ Back-end Web developer, graduated in Software Engineering. I am very interested 
   
  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg">
+<!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> -->
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png">
+  <img width="45px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/org78iy7mui8yvarsaen">
+ 
+   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/linux/linux-original.svg">
+    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/docker/docker-original.svg">
+  
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">-->
 
 
 </p>
 
 
-<br>
+<!-- <br>
 <table>
     <tr>
         <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfernandescout&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
         <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/?username=eliasfernandescout&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
     </tr>   
 </table>
-<br>
+<br> -->
 
 ### CONTACT ME:
 
