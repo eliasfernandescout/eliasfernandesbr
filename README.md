@@ -41,9 +41,10 @@ Back-end Web developer, graduating in Software Engineering. I am very interested
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png">
   <img width="45px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/org78iy7mui8yvarsaen">
+   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/docker/docker-original.svg">
  
 <!--    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/linux/linux-original.svg"> -->
-    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/docker/docker-original.svg">
+   
   
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">-->
 
