@@ -22,6 +22,7 @@ Back-end Web developer, graduating in Software Engineering. I am very interested
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img width="45px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/thumb/prismaHD.png">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original.svg">
   
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
