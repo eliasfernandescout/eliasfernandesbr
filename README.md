@@ -15,28 +15,28 @@ Back-end Web developer, graduating in Software Engineering. I am very interested
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">-->
   
   <!--<img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">-->
 
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img width="45px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/thumb/prismaHD.png">
+  <!--<img width="45px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/thumb/prismaHD.png">-->
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original.svg">
   
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
    
     
 
-   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">-->
   <!--<img width="45px" src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/hyper-3-color-logo.svg">-->
  
   
   
- <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg">
+ <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">-->
+  <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
+  <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg">-->
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> -->
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png">
