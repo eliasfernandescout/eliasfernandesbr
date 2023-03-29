@@ -14,7 +14,7 @@ Back-end Web developer, graduating in Software Engineering. I am very interested
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">-->
   
   <!--<img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">-->
