@@ -14,14 +14,15 @@ Back-end Web developer, graduating in Software Engineering. I am very interested
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
+    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">-->
   
   <!--<img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">-->
 
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> -->
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <!--<img width="45px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/thumb/prismaHD.png">-->
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original.svg">
   
@@ -38,7 +39,6 @@ Back-end Web developer, graduating in Software Engineering. I am very interested
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <!--<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg">-->
 <!--   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> -->
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png">
   <img width="45px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/org78iy7mui8yvarsaen">
    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/docker/docker-original.svg">
