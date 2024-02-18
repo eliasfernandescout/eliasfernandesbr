@@ -15,11 +15,11 @@ Back-end developer. I am very interested in Computer Engineering, Robotics, Soft
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/docker/docker-original.svg">
-  <img width="45px" src=" https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg">
+  <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
   <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
 
 
