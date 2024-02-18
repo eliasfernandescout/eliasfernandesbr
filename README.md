@@ -2,7 +2,7 @@
 
 ### I'm Elias Fernandes
 
-Back-end Web developer. I am very interested in Computer Engineering, Robotics, Software Engineering and Artificial Intelligence.
+Back-end developer. I am very interested in Computer Engineering, Robotics, Software Engineering and Artificial Intelligence.
 
 
 <h2 align="center"> Primarily using: </h2>
